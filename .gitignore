@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/delta_time
+delta_time.so
+delta_time.dylib
+delta_time.dll
+delta_time.a
+delta_time.lib
+delta_time-test-*
+*.exe
+*.o
+*.obj
+*.lst

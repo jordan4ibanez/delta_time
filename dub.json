@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"jordan4ibanez"
+	],
+	"copyright": "Copyright © 2022, jordan4ibanez",
+	"description": "A simple library for keeping track of time in games",
+	"license": "MIT",
+	"name": "delta_time"
+}
