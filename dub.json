@@ -3,7 +3,7 @@
 		"jordan4ibanez"
 	],
 	"copyright": "Copyright © 2022, jordan4ibanez",
-	"description": "A simple library for keeping track of time in games",
+	"description": "A simple library for keeping track of the delta time in games",
 	"license": "MIT",
 	"name": "delta_time",
     "targetType": "library"
