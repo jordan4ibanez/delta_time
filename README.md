@@ -1,5 +1,5 @@
 # delta_time
- A simple library for keeping track of time in games.
+ A simple library for keeping track of the delta time in games.
 
  This library will give you the delta time in a double floating point number.
 
