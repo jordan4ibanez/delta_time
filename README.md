@@ -16,6 +16,20 @@ void main()
 
     int count = 0;
 
+    // You can set the max delta two ways:
+
+    // By a number literal:
+    setMaxDelta(0.01);
+    setMaxDelta(1.0/5.0);
+
+    // Or by a FPS precision goal:
+    setMaxDeltaFPS(5.0)
+    
+    // By default, it's 5 FPS, if the game were to drop
+    // any lower than this, it will slow down the logic
+
+
+
     // This is the game loop
     while (running) {
 
